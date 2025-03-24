@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Routine" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#ffffff</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="colorPrimary">#2196F3</item>
+        <item name="statusBarBackground">#ffffff</item>
+    </style>
+</resources>
